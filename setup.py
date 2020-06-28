@@ -7,7 +7,7 @@ requires = ['numpy==1.18.4', 'pandas==1.0.4'] #==0.22.0
 
 setuptools.setup(
     # required
-    name="my_package.refael-kohen", # only contains letters, numbers, _ , and - (Does not have to be the same as package name)
+    name="my_package.refael-kohenn", # only contains letters, numbers, _ , and - (Does not have to be the same as package name)
     version="0.0.9", # The format: N(.N)* for example: 0.9, 0.9.1 or X.YbN for beta version
     # optional
     author="Refael Kohen",
